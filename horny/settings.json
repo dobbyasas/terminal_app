@@ -1,0 +1,24 @@
+{
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.minimap.enabled": false,
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    },
+    "editor.accessibilitySupport": "on",
+    "redhat.telemetry.enabled": true,
+    "powermode.combo.counterEnabled": "show",
+    "powermode.combo.location": "editor",
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "files.eol": "\n",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.colorTheme": "Ariake Dark",
+    "background.fullscreen": {
+        "image": "https://img.freepik.com/premium-vector/smooth-color-wave-vectorcurved-lines-rainbow-abstract-multicolored-wave-flow_206325-1410.jpg",
+        "opacity": 0.85,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    }
+}
